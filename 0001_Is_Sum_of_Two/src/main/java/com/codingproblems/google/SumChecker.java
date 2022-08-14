@@ -1,10 +1,10 @@
-package com.codingproblems.google.sumoftwo;
+package com.codingproblems.google;
 
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class SumCheckerImpl {
+public class SumChecker {
 
   /**
    * Returns {@code true} iff there exists 2 numbers in {@param numbers} which add up to {@param k}
